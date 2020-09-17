@@ -8,6 +8,7 @@ Air data links for 2019 and 2018
 https://aqicn.org/city/india/bengaluru/silk-board/
 
 Traffic movement in Banglore:
+
 https://www.bangaloretrafficpolice.gov.in/Accidentstats.aspx
 http://www.bangaloretrafficpolice.gov.in/statistics.aspx
 
@@ -19,5 +20,6 @@ http://www.bangaloretrafficpolice.gov.in/statistics.aspx
 5. overall air quality changes are high/low in which months 
 
 # Hypothesis:
+
 Ho: Air quality will be same as before in future (after lockdown)
 H1: Air quality will be better/worse in the future.
