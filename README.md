@@ -10,6 +10,7 @@ https://aqicn.org/city/india/bengaluru/silk-board/
 Traffic movement in Banglore:
 
 https://www.bangaloretrafficpolice.gov.in/Accidentstats.aspx
+
 http://www.bangaloretrafficpolice.gov.in/statistics.aspx
 
 # changes and effects:
@@ -22,4 +23,5 @@ http://www.bangaloretrafficpolice.gov.in/statistics.aspx
 # Hypothesis:
 
 Ho: Air quality will be same as before in future (after lockdown)
+
 H1: Air quality will be better/worse in the future.
